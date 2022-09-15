@@ -9,12 +9,10 @@ ul {
 }
 
 body {
-    background-image: url(./assets/bg.jpg); /* Função que recebe o argumento de onde a imagem esta */
-    background-position: top center; /* centraliza o bg */
-    background-size: 100% auto; /* primeiro largura segundo altura */
-    background-repeat: no-repeat; /* para não repetir o background */
-    background-color: #121214; /* cor no formato de hexadecimal */
-}
+    background-image: url(./assets/bg.jpg); 
+    background-position: top center; 
+    background-size: 100% auto; 
+    background-color: #121214; 
 
 body * {
     font-family: 'inter', sans-serif;
