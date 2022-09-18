@@ -1,6 +1,6 @@
-# NLW eSports Event
+# NLW eSports Event 🚀
 
-> Explorer route
+> 🔷 Explorer route
 
 Projeto desenvolvido com o conhecimento adquirido no evento Rocketseat Next Level Week. 
 
@@ -9,13 +9,13 @@ Projeto desenvolvido com o conhecimento adquirido no evento Rocketseat Next Leve
 
 [Clique aqui para acessar!](https://lucaskouto.github.io/NLWEsportsEvent/)
 
-## TECNOLOGIAS
+## 🔧 TECNOLOGIAS
 
-- HTML
+- HTML 
 - CSS
 - Git & Github
 
-## CONTATO 
+## 🖤 CONTATO 
 
 coutodesouzalucas@gmail.com
 
