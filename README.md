@@ -2,10 +2,9 @@
 
 > 🔷 Explorer route
 
-Projeto desenvolvido com o conhecimento adquirido no evento Rocketseat Next Level Week. 
+Projeto desenvolvido no evento Rocketseat Next Level Week. 
 
 ![preview](./.github/preview.png)
-
 
 [Clique aqui para acessar!](https://lucaskouto.github.io/NLWEsportsEvent/)
 
